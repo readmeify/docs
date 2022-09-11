@@ -4,7 +4,8 @@
 <p align="center">
   <img src="./assets/logo-dark.png" height="175px">
   <br>
-  <span align="center"> <font size="40"><b>readmeify</b></font><br>The modern <code>README.md</code> standard.</span>
+  <h1>Readmeify</h1>
+  <h3>The modern `README.md` standard.</h3>
 </p>
 
 <!-- Table of contents -->
@@ -138,18 +139,16 @@ You can create an issue or pull request on the repository if you have any issues
 <p align="center" ><img src="./assets/seperator.png" height="75px"></p>
 
 <p align="center">
-  <font size="3">
-    <span>
-      👼
-      <a href="https://github.com/readmeify">@readmeify</a>
-    </span>
-    ⁄
-    <span>
-      <a href="https://github.com/readmeify/docs">docs</a>
-    </span>
-    •
-    <span>👮 MIT License</span>
-    •
-    <span><a href="#-table-of-contents">Jump to Top</a></span>
-  </font>
+  <span>
+    👼
+    <a href="https://github.com/readmeify">@readmeify</a>
+  </span>
+  ⁄
+  <span>
+    <a href="https://github.com/readmeify/docs">docs</a>
+  </span>
+  •
+  <span>👮 MIT License</span>
+  •
+  <span><a href="#-table-of-contents">Jump to Top</a></span>
 </p>
