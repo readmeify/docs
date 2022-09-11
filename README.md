@@ -5,7 +5,7 @@
   <img src="./assets/logo-dark.png" height="175px">
   <br>
   <h1 align="center" >Readmeify</h1>
-  <h3 align="center" >The modern `README.md` standard.</h3>
+  <h3 align="center" >The modern <code>README.md</code> standard.</h3>
 </p>
 
 <!-- Table of contents -->
