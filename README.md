@@ -8,6 +8,8 @@
   <h3 align="center" >The modern <code>README.md</code> standard.</h3>
 </p>
 
+<br>
+
 <!-- Table of contents -->
 # 🧂 Table of Contents
 - [🧂 Table of Contents](#-table-of-contents)
